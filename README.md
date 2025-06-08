@@ -1,12 +1,23 @@
+---
+
+# A03\_032\_Mahendra Agung D
+
+Tugas Program Komnum 2025
+Final Project Komputasi Numerik yang dikerjakan oleh saya Ibrahim Ferel sebagai salah satu anggota dari kelompok A03
 
 ---
 
-# A03\_032\_Mahendra-Agung-Darmawan
+# KELOMPOK A03
+|    NRP     |      Name      |
+| :--------: | :------------: |
+| 5025241049 | Ibrahim Ferel |
+| 5025241032 | Mahendra Agung Darmawan |
+| 5025241044 | Ahmad Loka Arziki |
+| 5025241102 | Kemas Muhammad Athariq |
+| 5025241043 | Zulkarnaen Ramdhani |
 
-*Tugas Program Komnum 2025*
-Final Project Komputasi Numerik yang dikerjakan oleh saya Mahendra Agung Darmawan sebagai salah satu anggota dari kelompok A03
-
----
+## Soal
+![image](https://github.com/user-attachments/assets/a4dfa22b-2a51-4c36-a2e1-cc9f388afd50)
 
 ### Bahas Fungsi Main
 
@@ -35,7 +46,7 @@ def error_true(x_real, xr):
     return abs((x_real - xr) / x_real) * 100
 
 
-1. Untuk menemukan nilai *Error True*, yang mana nilai yang didapat dibandingkan dengan nilai variabel sebenarnya
+1. Untuk menemukan nilai Error True, yang mana nilai yang didapat dibandingkan dengan nilai variabel sebenarnya
 
 #### Fungsi error_aprox
 
@@ -44,7 +55,7 @@ def error_aprox(xr, xr_old):
     return abs((xr - xr_old) / xr) * 100 if xr != 0 else float('inf')
 
 
-1. Untuk menemukan nilai *Error Aprox*, yang mana nilai yang didapat dibandingkan dengan nilai sebelumnya
+1. Untuk menemukan nilai Error Aprox, yang mana nilai yang didapat dibandingkan dengan nilai sebelumnya
 2. Pastikan bahwa Xr != 0, jika tidak float('inf') karena angka 0 bisa menjadi pembagi
 
 ---
@@ -102,3 +113,6 @@ def bagi_dua(xl, xu, x_real, f):
 11. Increment index
 
 ---
+
+## Output
+![image](https://github.com/user-attachments/assets/d7465669-0115-4159-a399-873ac928ce4d)
