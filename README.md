@@ -4,7 +4,7 @@
 # A03\_032\_Mahendra-Agung-Darmawan
 
 *Tugas Program Komnum 2025*
-Final Project Komputasi Numerik yang dikerjakan oleh saya Ahmad Loka sebagai salah satu anggota dari kelompok A03
+Final Project Komputasi Numerik yang dikerjakan oleh saya Mahendra Agung Darmawan sebagai salah satu anggota dari kelompok A03
 
 ---
 
